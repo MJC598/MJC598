@@ -18,7 +18,7 @@ Outside the Syndemics Lab, I am part of the Open Source Modeling SIG (Special In
 
 I am most active here on GitHub (I use it pretty much every day with my job) but I can also be reached below:
 
-- [LinkedIn](www.linkedin.com/in/mattcarroll-miz)
+- [LinkedIn](https://www.linkedin.com/in/mattcarroll-miz)
 - [ORCiD](https://orcid.org/0009-0006-9869-2763)
 
 <!--
